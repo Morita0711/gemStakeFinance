@@ -15,7 +15,6 @@
     "bsc_test": "npx hardhat run --network bsctestnet scripts/deploy.js",
     "eth": "npx hardhat run --network ethereum scripts/deploy.js",
     "eth_test": "npx hardhat run --network rinkeby scripts/deploy.js",
-    "lint:sol": "solhint -f table contracts/**/*.sol"
   },
   "keywords": [],
   "author": "",
